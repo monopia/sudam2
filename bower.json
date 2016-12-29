@@ -1,0 +1,27 @@
+{
+  "name": "sudam-pack",
+  "description": "sudam front-end",
+  "main": "",
+  "authors": [
+    "sudam"
+  ],
+  "license": "UNLICENSED",
+  "homepage": "https://github.com/monopia/sudam",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "1.5.8",
+    "angular-route": "1.5.8",
+    "font-awesome": "^4.7.0",
+    "animate.css": "^3.5.2",
+    "jquery": "^3.1.1"
+  }
+}
